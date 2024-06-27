@@ -1,4 +1,4 @@
-package com.github.kanttanhed.hd_commons_lib.enums;
+package com.github.kanttanhed.models.enums;
 
 import java.util.Arrays;
 
